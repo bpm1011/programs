@@ -1,0 +1,110 @@
+/* Layout */
+#nav {
+    width: 100%;
+    float: left;
+    margin: 0 0 3em 0;
+    padding: 0;
+    list-style: none;
+    background-color: #f2f2f2;
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc; }
+#nav li {
+    float: left; }
+#nav li a {
+    display: block;
+    padding: 8px 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #069;
+    border-right: 1px solid #ccc; }
+#nav li a:hover {
+    color: #c00;
+    background-color: #fff; }
+
+h1 {
+    text-align: center;
+    color: darkblue;
+    font-family: Verdana, Georgia;
+    font-size: 24px; 
+    background: #EFF3FC;
+    border-top:1px solid #f0e9eb;
+    padding: 10px 15px;
+    clear:both;
+}
+    h2 {
+    text-align: left;
+    color: #7a2e40;
+    font-family: Verdana, Georgia;
+    font-size: 18px; 
+    background: #f7f7f7;
+    border-top:1px solid #f0e9eb;
+    padding: 10px 15px;
+    clear:both;
+}
+ul{
+    background: #f7f7f7;
+    border-top:1px solid #f0e9eb;
+    padding: 20px 15px;
+    clear:both; S
+}
+p.about{
+    background: #f7f7f7;
+    border-top:1px solid #f0e9eb;
+    padding: 10px 15px;
+    clear:both;
+}
+    
+p.link{
+    background: #f7f7f7;
+    text-align: center;
+    border-top:1px solid #f0e9eb;
+    padding: 10px 15px;
+    clear:both;
+    
+}
+p.profile{
+    text-align: center;
+}
+
+table {
+    width: 600px;
+    background-color: lightgreen;
+    border: 1px solid black;
+    text-align: center;
+    margin: auto;
+}
+
+th {
+    border: 1px solid black;
+    background-color: white;
+}
+
+td {
+    border: 1px dotted black;   
+}
+div.media {
+    text-align: center;
+     background: #f7f7f7;
+    border: 2.5px solid black;
+    padding: 10px 15px;
+    clear:both;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+#footer {
+    background: #f7f7f7;
+    border-top:1px solid #f0e9eb;
+    padding: 10px 15px;
+    clear:both;
+}
+
+body {
+    background-image: url(http://www.no-zaku.com/background/wp-content/uploads/sites/9/2016/11/Cool-Web-Page-Backgrounds.jpg);
+    background-size:  cover;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+   font-family: Verdana, Georgia;
+  
+}
